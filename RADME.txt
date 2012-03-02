@@ -1,0 +1,11 @@
+Trabalho da faculdade
+Disciplina: estrutura de dados
+Data: 02/03/12
+
+escrever um programa em c que tenha funcoes para incluir, excluir alterar
+alunos do cadastro. gerar relatório contendo quantidade alunos do sexo masculino
+reprovados
+quantidade de alunos do sexo feminino aprovados, codigo chave do aluno
+não deve ser alterado
+
+
